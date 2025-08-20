@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csogi
 - 👀 I’m interested in web development, photography, SEO.
-- 🌱 I’m currently learning more about HELIUM mapping.
+- 🌱 I’m currently developing an AI chatbot for personal portfolios.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me paul@csogi.com
 
